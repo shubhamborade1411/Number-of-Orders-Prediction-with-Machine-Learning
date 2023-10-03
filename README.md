@@ -2,7 +2,7 @@
 
 - redicting the number of orders for a product is one of the strategies a business can follow in determining how much to invest in marketing their product. So, predicting the number of orders is an important data science use case for product-based companies.
 
-  - Number of Orders Prediction
+# Number of Orders Prediction
 - If you want to predict the number of orders a company may receive for a particular product, then you need to have historical data about the number of orders received by the company. So for this task, I will be using the sales data of supplements that have been collected from Kaggle. The data that I will be using for the task of the number of orders prediction contains data about:
 
 - Product ID
