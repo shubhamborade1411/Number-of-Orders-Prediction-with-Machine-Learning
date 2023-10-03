@@ -15,5 +15,5 @@
 - Whether the product was on discount or not
 - Number of orders placed
 - Sales
-- Now in the section below, I will take you through the task of the number of orders prediction with machine learning by using the Python programming language.
+- Now in the notebook uploaded above, I will take you through the task of the number of orders prediction with machine learning by using the Python programming language.
 
